@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Callum</h1>
+<h1 align="center">Hi, I'm callumks</h1>
 <h3 align="center">Model, FullStack Dev, avid Cyclist and Rock Climber and Crypto Enthusiast based in NYC.</h3>
 
 - 🔭 I’m currently working on **TripleTen Sprint 5**
