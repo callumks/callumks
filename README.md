@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm callumks</h1>
-<h3 align="center">Model, FullStack Dev, Musician, avid Cyclist, Rock Climber and Crypto Enthusiast based in NYC.</h3>
+<h1 align="center">Hi, I'm Callum Stoddart</h1>
+<h3 align="center">FullStack Dev, Model, Musician, avid Cyclist, and Rock Climber based in NYC.</h3>
 
 - 🔭 I’m currently working on **TripleTen Sprint 5**
 
