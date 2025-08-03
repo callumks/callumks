@@ -4,6 +4,8 @@
 - 🔭 I’m currently working on **TripleTen Sprint 6**
 
 - 🌱 I’m currently learning **at Tripleten Bootcamp**
+
+- I'm currently building coldpilot.tech and trainly.app
   
 - My Portfolio: https://callumks.github.io/portfolio/
 
