@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **at Tripleten Bootcamp**
 
-- I'm currently building coldpilot.tech and trainly.app
+- Currently building coldpilot.tech and trainly.app
   
 - My Portfolio: https://callumks.github.io/portfolio/
 
