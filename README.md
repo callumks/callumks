@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Callum Stoddart</h1>
 <h3 align="center">FullStack Dev, Model, Musician, avid Cyclist, and Rock Climber based in NYC.</h3>
-
-- 🔭 I’m currently working on **TripleTen Sprint 7** and **Trainly.app**
-
-- 🌱 I’m currently learning **at Tripleten Bootcamp**
   
 - My Portfolio: https://callumks.github.io/portfolio/
 
