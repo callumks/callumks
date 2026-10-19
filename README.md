@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Callum Stoddart</h1>
+<h1 align="center">Hi, I'm Callum </h1>
 <h3 align="center">FullStack Dev, Model, Musician, avid Cyclist, and Rock Climber based in NYC.</h3>
   
 - My Portfolio: https://callumks.github.io/portfolio/
